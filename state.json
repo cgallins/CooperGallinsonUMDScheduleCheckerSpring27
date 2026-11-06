@@ -47,7 +47,7 @@
     "0201": {
       "holdfile": 0,
       "instructor": "Shrihari Santosh",
-      "open": 30,
+      "open": 29,
       "total": 40,
       "waitlist": 0
     },
@@ -86,7 +86,7 @@
     "0201": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 16,
+      "open": 15,
       "total": 40,
       "waitlist": 0
     },
@@ -100,7 +100,7 @@
     "0401": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 36,
+      "open": 37,
       "total": 40,
       "waitlist": 0
     }
@@ -134,14 +134,14 @@
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 19
+      "waitlist": 18
     },
     "0201": {
       "holdfile": null,
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 20
+      "waitlist": 19
     },
     "0301": {
       "holdfile": null,
@@ -155,7 +155,7 @@
     "0101": {
       "holdfile": null,
       "instructor": "Michael Padhi",
-      "open": 42,
+      "open": 41,
       "total": 50,
       "waitlist": null
     }
@@ -173,14 +173,14 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 36,
-      "waitlist": 21
+      "waitlist": 18
     },
     "0301": {
       "holdfile": 0,
       "instructor": "Mengdi Zhong",
       "open": 0,
       "total": 40,
-      "waitlist": 15
+      "waitlist": 14
     }
   },
   "BMGT449F": {
