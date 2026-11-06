@@ -72,14 +72,14 @@
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 5
+      "waitlist": 6
     }
   },
   "BMGT443": {
     "0101": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 16,
+      "open": 15,
       "total": 40,
       "waitlist": 0
     },
@@ -180,7 +180,7 @@
       "instructor": "Mengdi Zhong",
       "open": 0,
       "total": 40,
-      "waitlist": 14
+      "waitlist": 15
     }
   },
   "BMGT449F": {
