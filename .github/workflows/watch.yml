@@ -28,6 +28,7 @@ jobs:
         run: |
           git config user.name "testudo-bot"
           git config user.email "bot@users.noreply.github.com"
+                       [ -f state.json ] || exit 0
           git add state.json
           git diff --cached --quiet || git commit -m "update seat state"
           git push
