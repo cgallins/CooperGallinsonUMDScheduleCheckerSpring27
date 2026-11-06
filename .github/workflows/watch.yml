@@ -1,0 +1,33 @@
+name: Testudo watcher
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes
+  workflow_dispatch:         # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write            # needed to save state.json between runs
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python testudo_watch.py
+        env:
+          TERM_ID: "202701"
+          SEARCH: "BMGT44"
+          COURSES: "BMGT441,BMGT446"   # only alert on these courses
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "testudo-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "update seat state"
+          git push
