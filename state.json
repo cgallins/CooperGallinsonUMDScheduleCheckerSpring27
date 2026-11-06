@@ -166,7 +166,7 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 36,
-      "waitlist": 8
+      "waitlist": 9
     },
     "0201": {
       "holdfile": 0,
@@ -187,7 +187,7 @@
     "0101": {
       "holdfile": null,
       "instructor": "Sarah Kroncke",
-      "open": 3,
+      "open": 4,
       "total": 12,
       "waitlist": null
     }
