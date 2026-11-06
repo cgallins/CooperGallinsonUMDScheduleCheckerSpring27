@@ -1,0 +1,195 @@
+{
+  "BMGT440": {
+    "0101": {
+      "holdfile": 0,
+      "instructor": "Maria Bustamante",
+      "open": 37,
+      "total": 40,
+      "waitlist": 0
+    },
+    "0201": {
+      "holdfile": 0,
+      "instructor": "David Kass",
+      "open": 20,
+      "total": 40,
+      "waitlist": 0
+    },
+    "0301": {
+      "holdfile": 0,
+      "instructor": "David Kass",
+      "open": 34,
+      "total": 40,
+      "waitlist": 0
+    },
+    "0401": {
+      "holdfile": 0,
+      "instructor": "David Kass",
+      "open": 26,
+      "total": 40,
+      "waitlist": 0
+    },
+    "0501": {
+      "holdfile": 0,
+      "instructor": "Maria Bustamante",
+      "open": 37,
+      "total": 40,
+      "waitlist": 0
+    }
+  },
+  "BMGT441": {
+    "0101": {
+      "holdfile": 0,
+      "instructor": "Shrihari Santosh",
+      "open": 0,
+      "total": 40,
+      "waitlist": 1
+    },
+    "0201": {
+      "holdfile": 0,
+      "instructor": "Shrihari Santosh",
+      "open": 30,
+      "total": 40,
+      "waitlist": 0
+    },
+    "0301": {
+      "holdfile": 0,
+      "instructor": "Shrihari Santosh",
+      "open": 37,
+      "total": 40,
+      "waitlist": 0
+    },
+    "0401": {
+      "holdfile": 0,
+      "instructor": "Terrence O'Brien",
+      "open": 0,
+      "total": 40,
+      "waitlist": 40
+    }
+  },
+  "BMGT442": {
+    "0101": {
+      "holdfile": null,
+      "instructor": "Shrihari Santosh",
+      "open": 0,
+      "total": 40,
+      "waitlist": 5
+    }
+  },
+  "BMGT443": {
+    "0101": {
+      "holdfile": 0,
+      "instructor": "Oya Altinkilic",
+      "open": 16,
+      "total": 40,
+      "waitlist": 0
+    },
+    "0201": {
+      "holdfile": 0,
+      "instructor": "Oya Altinkilic",
+      "open": 16,
+      "total": 40,
+      "waitlist": 0
+    },
+    "0301": {
+      "holdfile": 0,
+      "instructor": "Oya Altinkilic",
+      "open": 22,
+      "total": 40,
+      "waitlist": 0
+    },
+    "0401": {
+      "holdfile": 0,
+      "instructor": "Oya Altinkilic",
+      "open": 36,
+      "total": 40,
+      "waitlist": 0
+    }
+  },
+  "BMGT444": {
+    "0101": {
+      "holdfile": 1,
+      "instructor": "Terrence O'Brien",
+      "open": 0,
+      "total": 40,
+      "waitlist": 33
+    },
+    "0201": {
+      "holdfile": 0,
+      "instructor": "Terrence O'Brien",
+      "open": 0,
+      "total": 40,
+      "waitlist": 33
+    },
+    "0301": {
+      "holdfile": 1,
+      "instructor": "Terrence O'Brien",
+      "open": 0,
+      "total": 40,
+      "waitlist": 28
+    }
+  },
+  "BMGT445": {
+    "0101": {
+      "holdfile": null,
+      "instructor": "Agustin Hurtado",
+      "open": 0,
+      "total": 40,
+      "waitlist": 19
+    },
+    "0201": {
+      "holdfile": null,
+      "instructor": "Agustin Hurtado",
+      "open": 0,
+      "total": 40,
+      "waitlist": 20
+    },
+    "0301": {
+      "holdfile": null,
+      "instructor": "Agustin Hurtado",
+      "open": 0,
+      "total": 40,
+      "waitlist": 6
+    }
+  },
+  "BMGT445F": {
+    "0101": {
+      "holdfile": null,
+      "instructor": "Michael Padhi",
+      "open": 42,
+      "total": 50,
+      "waitlist": null
+    }
+  },
+  "BMGT446": {
+    "0101": {
+      "holdfile": 0,
+      "instructor": "Mengdi Zhong",
+      "open": 0,
+      "total": 36,
+      "waitlist": 8
+    },
+    "0201": {
+      "holdfile": 0,
+      "instructor": "George Gao",
+      "open": 0,
+      "total": 36,
+      "waitlist": 21
+    },
+    "0301": {
+      "holdfile": 0,
+      "instructor": "George Gao",
+      "open": 0,
+      "total": 40,
+      "waitlist": 15
+    }
+  },
+  "BMGT449F": {
+    "0101": {
+      "holdfile": null,
+      "instructor": "Sarah Kroncke",
+      "open": 3,
+      "total": 12,
+      "waitlist": null
+    }
+  }
+}
