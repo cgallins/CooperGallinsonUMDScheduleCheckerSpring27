@@ -41,8 +41,14 @@ def find_courses():
     html = get(f"{BASE}/search", {
         "courseId": SEARCH, "sectionId": "", "termId": TERM,
         "_openSectionsOnly": "on", "creditCompare": ">=", "credits": "0.0",
-        "courseLevelFilter": "ALL", "instructor": "", "teachingCenter": "ALL",
+        "courseLevelFilter": "ALL", "instructor": "",
         "_facetoface": "on", "_blended": "on", "_online": "on",
+        # Testudo rejects the search unless these (empty) time fields are present
+        "courseStartCompare": "", "courseStartHour": "", "courseStartMin": "",
+        "courseStartAM": "", "courseEndHour": "", "courseEndMin": "",
+        "courseEndAM": "", "teachingCenter": "ALL",
+        "_classDay1": "on", "_classDay2": "on", "_classDay3": "on",
+        "_classDay4": "on", "_classDay5": "on",
     })
     soup = BeautifulSoup(html, "html.parser")
     ids = set()
