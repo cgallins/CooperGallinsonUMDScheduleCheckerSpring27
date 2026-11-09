@@ -52,7 +52,7 @@
       "waitlist": 0
     },
     "0301": {
-      "holdfile": 0,
+      "holdfile": 1,
       "instructor": "Shrihari Santosh",
       "open": 37,
       "total": 40,
@@ -86,14 +86,14 @@
     "0201": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 15,
+      "open": 16,
       "total": 40,
       "waitlist": 0
     },
     "0301": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 22,
+      "open": 21,
       "total": 40,
       "waitlist": 0
     },
@@ -111,14 +111,14 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 34
+      "waitlist": 35
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 34
+      "waitlist": 35
     },
     "0301": {
       "holdfile": 1,
@@ -134,7 +134,7 @@
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 19
+      "waitlist": 18
     },
     "0201": {
       "holdfile": null,
