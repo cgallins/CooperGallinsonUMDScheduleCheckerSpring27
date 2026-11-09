@@ -17,7 +17,7 @@
     "0301": {
       "holdfile": 0,
       "instructor": "David Kass",
-      "open": 31,
+      "open": 27,
       "total": 40,
       "waitlist": 0
     },
@@ -42,12 +42,12 @@
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 5
+      "waitlist": 6
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Shrihari Santosh",
-      "open": 21,
+      "open": 17,
       "total": 40,
       "waitlist": 0
     },
@@ -63,7 +63,7 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 45
+      "waitlist": 47
     }
   },
   "BMGT442": {
@@ -72,35 +72,35 @@
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 11
+      "waitlist": 13
     }
   },
   "BMGT443": {
     "0101": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 11,
+      "open": 9,
       "total": 40,
       "waitlist": 0
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 16,
+      "open": 15,
       "total": 40,
       "waitlist": 0
     },
     "0301": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 18,
+      "open": 17,
       "total": 40,
       "waitlist": 0
     },
     "0401": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 36,
+      "open": 35,
       "total": 40,
       "waitlist": 0
     }
@@ -111,21 +111,21 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 42
+      "waitlist": 43
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 42
+      "waitlist": 44
     },
     "0301": {
       "holdfile": 1,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 36
+      "waitlist": 37
     }
   },
   "BMGT445": {
@@ -134,21 +134,21 @@
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 27
+      "waitlist": 28
     },
     "0201": {
       "holdfile": null,
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 27
+      "waitlist": 28
     },
     "0301": {
       "holdfile": null,
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 16
+      "waitlist": 18
     }
   },
   "BMGT445F": {
@@ -166,21 +166,21 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 36,
-      "waitlist": 20
+      "waitlist": 23
     },
     "0201": {
       "holdfile": 0,
       "instructor": "George Gao",
       "open": 0,
       "total": 36,
-      "waitlist": 26
+      "waitlist": 28
     },
     "0301": {
       "holdfile": 0,
       "instructor": "Mengdi Zhong",
       "open": 0,
       "total": 40,
-      "waitlist": 21
+      "waitlist": 24
     }
   },
   "BMGT449F": {
