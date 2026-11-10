@@ -10,7 +10,7 @@
     "0201": {
       "holdfile": 0,
       "instructor": "David Kass",
-      "open": 13,
+      "open": 12,
       "total": 40,
       "waitlist": 0
     },
@@ -24,7 +24,7 @@
     "0401": {
       "holdfile": 0,
       "instructor": "David Kass",
-      "open": 24,
+      "open": 23,
       "total": 40,
       "waitlist": 0
     },
@@ -86,7 +86,7 @@
     "0201": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 7,
+      "open": 6,
       "total": 40,
       "waitlist": 0
     },
@@ -111,21 +111,21 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 60
+      "waitlist": 61
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 58
+      "waitlist": 59
     },
     "0301": {
       "holdfile": 1,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 52
+      "waitlist": 53
     }
   },
   "BMGT445": {
