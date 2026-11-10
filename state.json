@@ -42,7 +42,7 @@
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 5
+      "waitlist": 7
     },
     "0201": {
       "holdfile": 0,
@@ -54,7 +54,7 @@
     "0301": {
       "holdfile": 1,
       "instructor": "Shrihari Santosh",
-      "open": 25,
+      "open": 26,
       "total": 40,
       "waitlist": 0
     },
@@ -86,7 +86,7 @@
     "0201": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 12,
+      "open": 11,
       "total": 40,
       "waitlist": 0
     },
@@ -166,7 +166,7 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 36,
-      "waitlist": 32
+      "waitlist": 31
     },
     "0201": {
       "holdfile": 0,
