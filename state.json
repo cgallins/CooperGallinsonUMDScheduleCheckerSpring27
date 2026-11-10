@@ -42,19 +42,19 @@
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 7
+      "waitlist": 6
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 2
+      "waitlist": 0
     },
     "0301": {
       "holdfile": 1,
       "instructor": "Shrihari Santosh",
-      "open": 26,
+      "open": 25,
       "total": 40,
       "waitlist": 0
     },
@@ -63,7 +63,7 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 51
+      "waitlist": 49
     }
   },
   "BMGT442": {
@@ -86,7 +86,7 @@
     "0201": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 11,
+      "open": 10,
       "total": 40,
       "waitlist": 0
     },
@@ -111,7 +111,7 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 52
+      "waitlist": 53
     },
     "0201": {
       "holdfile": 0,
@@ -166,7 +166,7 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 36,
-      "waitlist": 31
+      "waitlist": 32
     },
     "0201": {
       "holdfile": 0,
