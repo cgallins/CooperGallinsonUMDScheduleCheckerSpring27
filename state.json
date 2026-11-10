@@ -54,7 +54,7 @@
     "0301": {
       "holdfile": 1,
       "instructor": "Shrihari Santosh",
-      "open": 26,
+      "open": 25,
       "total": 40,
       "waitlist": 0
     },
@@ -134,7 +134,7 @@
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 36
+      "waitlist": 37
     },
     "0201": {
       "holdfile": null,
@@ -148,7 +148,7 @@
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 25
+      "waitlist": 26
     }
   },
   "BMGT445F": {
