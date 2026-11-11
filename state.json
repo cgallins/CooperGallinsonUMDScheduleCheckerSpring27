@@ -17,7 +17,7 @@
     "0301": {
       "holdfile": 0,
       "instructor": "David Kass",
-      "open": 22,
+      "open": 21,
       "total": 40,
       "waitlist": 0
     },
@@ -49,14 +49,14 @@
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 7
+      "waitlist": 8
     },
     "0301": {
       "holdfile": 1,
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 0
+      "waitlist": 1
     },
     "0401": {
       "holdfile": 0,
@@ -88,19 +88,19 @@
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
-      "waitlist": 2
+      "waitlist": 3
     },
     "0301": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
-      "waitlist": 2
+      "waitlist": 3
     },
     "0401": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 18,
+      "open": 17,
       "total": 40,
       "waitlist": 0
     }
@@ -134,21 +134,21 @@
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 46
+      "waitlist": 47
     },
     "0201": {
       "holdfile": null,
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 42
+      "waitlist": 43
     },
     "0301": {
       "holdfile": null,
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 39
+      "waitlist": 40
     }
   },
   "BMGT445F": {
