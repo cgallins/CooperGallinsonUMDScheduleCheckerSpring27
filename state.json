@@ -10,21 +10,21 @@
     "0201": {
       "holdfile": 0,
       "instructor": "David Kass",
-      "open": 1,
+      "open": 0,
       "total": 40,
-      "waitlist": 0
+      "waitlist": 1
     },
     "0301": {
       "holdfile": 0,
       "instructor": "David Kass",
-      "open": 18,
+      "open": 17,
       "total": 40,
       "waitlist": 0
     },
     "0401": {
       "holdfile": 0,
       "instructor": "David Kass",
-      "open": 19,
+      "open": 18,
       "total": 40,
       "waitlist": 0
     },
