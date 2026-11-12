@@ -17,7 +17,7 @@
     "0301": {
       "holdfile": 0,
       "instructor": "David Kass",
-      "open": 21,
+      "open": 20,
       "total": 40,
       "waitlist": 0
     },
@@ -42,7 +42,7 @@
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 12
+      "waitlist": 13
     },
     "0201": {
       "holdfile": 0,
@@ -63,7 +63,7 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 60
+      "waitlist": 61
     }
   },
   "BMGT442": {
@@ -81,7 +81,7 @@
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
-      "waitlist": 3
+      "waitlist": 4
     },
     "0201": {
       "holdfile": 0,
@@ -100,7 +100,7 @@
     "0401": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
-      "open": 10,
+      "open": 9,
       "total": 40,
       "waitlist": 0
     }
