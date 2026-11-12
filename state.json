@@ -111,14 +111,14 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 75
+      "waitlist": 76
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 72
+      "waitlist": 73
     },
     "0301": {
       "holdfile": 1,
@@ -148,7 +148,7 @@
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 42
+      "waitlist": 43
     }
   },
   "BMGT445F": {
@@ -166,14 +166,14 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 36,
-      "waitlist": 44
+      "waitlist": 45
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Mengdi Zhong",
       "open": 0,
       "total": 36,
-      "waitlist": 41
+      "waitlist": 42
     },
     "0301": {
       "holdfile": 0,
