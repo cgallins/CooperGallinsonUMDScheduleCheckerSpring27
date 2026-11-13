@@ -42,28 +42,28 @@
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 19
+      "waitlist": 20
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 14
+      "waitlist": 15
     },
     "0301": {
       "holdfile": 1,
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 11
+      "waitlist": 12
     },
     "0401": {
       "holdfile": 0,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 64
+      "waitlist": 65
     }
   },
   "BMGT442": {
@@ -134,21 +134,21 @@
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 52
+      "waitlist": 53
     },
     "0201": {
       "holdfile": null,
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 48
+      "waitlist": 49
     },
     "0301": {
       "holdfile": null,
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 47
+      "waitlist": 48
     }
   },
   "BMGT445F": {
