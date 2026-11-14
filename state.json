@@ -24,7 +24,7 @@
     "0401": {
       "holdfile": 0,
       "instructor": "David Kass",
-      "open": 9,
+      "open": 8,
       "total": 40,
       "waitlist": 0
     },
@@ -81,14 +81,14 @@
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
-      "waitlist": 8
+      "waitlist": 9
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
-      "waitlist": 6
+      "waitlist": 7
     },
     "0301": {
       "holdfile": 0,
@@ -102,7 +102,7 @@
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
-      "waitlist": 2
+      "waitlist": 3
     }
   },
   "BMGT444": {
