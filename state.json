@@ -95,14 +95,14 @@
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
-      "waitlist": 7
+      "waitlist": 8
     },
     "0401": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
-      "waitlist": 4
+      "waitlist": 5
     }
   },
   "BMGT444": {
@@ -141,7 +141,7 @@
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 53
+      "waitlist": 54
     },
     "0301": {
       "holdfile": null,
@@ -180,7 +180,7 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 40,
-      "waitlist": 54
+      "waitlist": 55
     }
   },
   "BMGT449F": {
