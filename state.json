@@ -17,14 +17,14 @@
     "0301": {
       "holdfile": 0,
       "instructor": "David Kass",
-      "open": 5,
+      "open": 2,
       "total": 40,
       "waitlist": 0
     },
     "0401": {
       "holdfile": 0,
       "instructor": "David Kass",
-      "open": 5,
+      "open": 3,
       "total": 40,
       "waitlist": 0
     },
@@ -63,7 +63,7 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 68
+      "waitlist": 69
     }
   },
   "BMGT442": {
@@ -81,14 +81,14 @@
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
-      "waitlist": 9
+      "waitlist": 10
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
-      "waitlist": 8
+      "waitlist": 9
     },
     "0301": {
       "holdfile": 0,
@@ -111,21 +111,21 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 83
+      "waitlist": 84
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 80
+      "waitlist": 81
     },
     "0301": {
       "holdfile": 1,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 74
+      "waitlist": 75
     }
   },
   "BMGT445": {
@@ -166,7 +166,7 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 40,
-      "waitlist": 47
+      "waitlist": 48
     },
     "0201": {
       "holdfile": 0,
@@ -180,7 +180,7 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 40,
-      "waitlist": 51
+      "waitlist": 52
     }
   },
   "BMGT449F": {
