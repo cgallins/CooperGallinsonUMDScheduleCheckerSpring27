@@ -26,12 +26,12 @@
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 7
+      "waitlist": 8
     },
     "0501": {
       "holdfile": 0,
       "instructor": "Maria Bustamante",
-      "open": 29,
+      "open": 27,
       "total": 40,
       "waitlist": 0
     }
@@ -114,7 +114,7 @@
       "waitlist": 86
     },
     "0201": {
-      "holdfile": 0,
+      "holdfile": 1,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
@@ -166,21 +166,21 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 40,
-      "waitlist": 51
+      "waitlist": 52
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Mengdi Zhong",
       "open": 0,
       "total": 40,
-      "waitlist": 40
+      "waitlist": 41
     },
     "0301": {
       "holdfile": 0,
       "instructor": "George Gao",
       "open": 0,
       "total": 40,
-      "waitlist": 56
+      "waitlist": 57
     }
   },
   "BMGT449F": {
