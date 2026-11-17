@@ -3,7 +3,7 @@
     "0101": {
       "holdfile": 0,
       "instructor": "Maria Bustamante",
-      "open": 32,
+      "open": 31,
       "total": 40,
       "waitlist": 0
     },
@@ -12,21 +12,21 @@
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 10
+      "waitlist": 12
     },
     "0301": {
       "holdfile": 0,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 7
+      "waitlist": 10
     },
     "0401": {
       "holdfile": 0,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 8
+      "waitlist": 10
     },
     "0501": {
       "holdfile": 0,
@@ -155,7 +155,7 @@
     "0101": {
       "holdfile": null,
       "instructor": "Michael Padhi",
-      "open": 25,
+      "open": 23,
       "total": 50,
       "waitlist": null
     }
