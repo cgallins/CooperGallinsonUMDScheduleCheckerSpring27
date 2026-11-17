@@ -3,7 +3,7 @@
     "0101": {
       "holdfile": 0,
       "instructor": "Maria Bustamante",
-      "open": 33,
+      "open": 32,
       "total": 40,
       "waitlist": 0
     },
@@ -12,21 +12,21 @@
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 7
+      "waitlist": 8
     },
     "0301": {
       "holdfile": 0,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 3
+      "waitlist": 4
     },
     "0401": {
       "holdfile": 0,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 4
+      "waitlist": 5
     },
     "0501": {
       "holdfile": 0,
@@ -72,7 +72,7 @@
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 32
+      "waitlist": 33
     }
   },
   "BMGT443": {
@@ -111,21 +111,21 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 85
+      "waitlist": 86
     },
     "0201": {
       "holdfile": 0,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 81
+      "waitlist": 82
     },
     "0301": {
       "holdfile": 1,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 76
+      "waitlist": 77
     }
   },
   "BMGT445": {
@@ -134,14 +134,14 @@
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 54
+      "waitlist": 55
     },
     "0201": {
       "holdfile": null,
       "instructor": "Agustin Hurtado",
       "open": 0,
       "total": 40,
-      "waitlist": 53
+      "waitlist": 54
     },
     "0301": {
       "holdfile": null,
@@ -166,7 +166,7 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 40,
-      "waitlist": 50
+      "waitlist": 51
     },
     "0201": {
       "holdfile": 0,
@@ -180,7 +180,7 @@
       "instructor": "George Gao",
       "open": 0,
       "total": 40,
-      "waitlist": 55
+      "waitlist": 56
     }
   },
   "BMGT449F": {
