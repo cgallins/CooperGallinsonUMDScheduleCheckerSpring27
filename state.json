@@ -12,26 +12,26 @@
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 8
+      "waitlist": 10
     },
     "0301": {
       "holdfile": 0,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 4
+      "waitlist": 7
     },
     "0401": {
       "holdfile": 0,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 5
+      "waitlist": 7
     },
     "0501": {
       "holdfile": 0,
       "instructor": "Maria Bustamante",
-      "open": 31,
+      "open": 29,
       "total": 40,
       "waitlist": 0
     }
@@ -102,7 +102,7 @@
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
-      "waitlist": 6
+      "waitlist": 5
     }
   },
   "BMGT444": {
@@ -155,7 +155,7 @@
     "0101": {
       "holdfile": null,
       "instructor": "Michael Padhi",
-      "open": 27,
+      "open": 25,
       "total": 50,
       "waitlist": null
     }
