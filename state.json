@@ -8,7 +8,7 @@
       "waitlist": 0
     },
     "0201": {
-      "holdfile": 0,
+      "holdfile": 1,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
@@ -26,12 +26,12 @@
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 12
+      "waitlist": 13
     },
     "0501": {
       "holdfile": 0,
       "instructor": "Maria Bustamante",
-      "open": 23,
+      "open": 22,
       "total": 40,
       "waitlist": 0
     }
