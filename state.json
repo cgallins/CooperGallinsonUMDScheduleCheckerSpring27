@@ -3,7 +3,7 @@
     "0101": {
       "holdfile": 0,
       "instructor": "Maria Bustamante",
-      "open": 31,
+      "open": 30,
       "total": 40,
       "waitlist": 0
     },
@@ -26,7 +26,7 @@
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 15
+      "waitlist": 16
     },
     "0501": {
       "holdfile": 0,
