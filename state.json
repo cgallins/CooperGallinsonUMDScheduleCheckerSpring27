@@ -1,7 +1,7 @@
 {
   "BMGT440": {
     "0101": {
-      "holdfile": 1,
+      "holdfile": 2,
       "instructor": "Maria Bustamante",
       "open": 30,
       "total": 40,
@@ -29,7 +29,7 @@
       "waitlist": 19
     },
     "0501": {
-      "holdfile": 1,
+      "holdfile": 2,
       "instructor": "Maria Bustamante",
       "open": 17,
       "total": 40,
@@ -162,21 +162,21 @@
   },
   "BMGT446": {
     "0101": {
-      "holdfile": 0,
+      "holdfile": 1,
       "instructor": "George Gao",
       "open": 0,
       "total": 40,
       "waitlist": 55
     },
     "0201": {
-      "holdfile": 1,
+      "holdfile": 2,
       "instructor": "Mengdi Zhong",
       "open": 0,
       "total": 40,
       "waitlist": 44
     },
     "0301": {
-      "holdfile": 0,
+      "holdfile": 1,
       "instructor": "George Gao",
       "open": 0,
       "total": 40,
