@@ -12,21 +12,21 @@
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 19
+      "waitlist": 22
     },
     "0301": {
       "holdfile": 0,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 17
+      "waitlist": 21
     },
     "0401": {
       "holdfile": 0,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 18
+      "waitlist": 19
     },
     "0501": {
       "holdfile": 1,
@@ -42,7 +42,7 @@
       "instructor": "Shrihari Santosh",
       "open": 0,
       "total": 40,
-      "waitlist": 26
+      "waitlist": 27
     },
     "0201": {
       "holdfile": 0,
@@ -63,7 +63,7 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 76
+      "waitlist": 77
     }
   },
   "BMGT442": {
@@ -77,7 +77,7 @@
   },
   "BMGT443": {
     "0101": {
-      "holdfile": 0,
+      "holdfile": 1,
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
@@ -155,7 +155,7 @@
     "0101": {
       "holdfile": null,
       "instructor": "Michael Padhi",
-      "open": 19,
+      "open": 18,
       "total": 50,
       "waitlist": null
     }
