@@ -3,7 +3,7 @@
     "0101": {
       "holdfile": 0,
       "instructor": "Maria Bustamante",
-      "open": 30,
+      "open": 29,
       "total": 40,
       "waitlist": 0
     },
@@ -12,21 +12,21 @@
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 15
+      "waitlist": 17
     },
     "0301": {
       "holdfile": 0,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 14
+      "waitlist": 15
     },
     "0401": {
       "holdfile": 0,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 16
+      "waitlist": 17
     },
     "0501": {
       "holdfile": 0,
@@ -63,7 +63,7 @@
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
-      "waitlist": 75
+      "waitlist": 76
     }
   },
   "BMGT442": {
@@ -121,7 +121,7 @@
       "waitlist": 83
     },
     "0301": {
-      "holdfile": 1,
+      "holdfile": 2,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
