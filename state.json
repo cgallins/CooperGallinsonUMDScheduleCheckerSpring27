@@ -1,9 +1,9 @@
 {
   "BMGT440": {
     "0101": {
-      "holdfile": 2,
+      "holdfile": 3,
       "instructor": "Maria Bustamante",
-      "open": 22,
+      "open": 20,
       "total": 40,
       "waitlist": 0
     },
@@ -12,26 +12,26 @@
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 29
+      "waitlist": 30
     },
     "0301": {
-      "holdfile": 0,
+      "holdfile": 1,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 26
+      "waitlist": 28
     },
     "0401": {
-      "holdfile": 0,
+      "holdfile": 1,
       "instructor": "David Kass",
       "open": 0,
       "total": 40,
-      "waitlist": 23
+      "waitlist": 25
     },
     "0501": {
-      "holdfile": 2,
+      "holdfile": 3,
       "instructor": "Maria Bustamante",
-      "open": 7,
+      "open": 6,
       "total": 40,
       "waitlist": 0
     }
