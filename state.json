@@ -84,7 +84,7 @@
       "waitlist": 12
     },
     "0201": {
-      "holdfile": 0,
+      "holdfile": 1,
       "instructor": "Oya Altinkilic",
       "open": 0,
       "total": 40,
@@ -107,7 +107,7 @@
   },
   "BMGT444": {
     "0101": {
-      "holdfile": 1,
+      "holdfile": 2,
       "instructor": "Terrence O'Brien",
       "open": 0,
       "total": 40,
